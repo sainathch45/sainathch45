@@ -1,10 +1,10 @@
-### Hi there! 👋 I'm [Your Name]  
+### Hi there! 👋 I'm Sainath Ch 
 
 🔹 AI/ML Enthusiast | Tech Enthusiast 
 🔹 Passionate about Problem-Solving and building solutions that create real-world impact  
 🔹 Currently working on AI-powered smart grid forecasting  
 
-📫 **Let's connect:** [LinkedIn](your-linkedin) | [Portfolio](your-website)  
+📫 **Let's connect:** [LinkedIn](www.linkedin.com/in/sainathch45) | <!-- [Portfolio](your-website)  -->
 
 ---
 
