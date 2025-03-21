@@ -4,7 +4,7 @@
 🔹 Passionate about Problem-Solving and building solutions that create real-world impact  
 🔹 Currently working on AI-powered smart grid forecasting  
 
-📫 **Let's connect:** [LinkedIn](www.linkedin.com/in/sainathch45) | <!-- [Portfolio](your-website)  --> | [E-mail](chvms7712@gmail.com) | [Phone](+91-9550928826)
+📫 **Let's connect:** [LinkedIn](www.linkedin.com/in/sainathch45) | <!-- [Portfolio](your-website)  |-->[E-mail](chvms7712@gmail.com) | [Phone](+91-9550928826)
 
 ---
 
