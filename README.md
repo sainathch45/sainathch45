@@ -1,4 +1,24 @@
-## Hi there 👋
+### Hi there! 👋 I'm [Your Name]  
+
+🔹 AI/ML Enthusiast | Tech Enthusiast 
+🔹 Passionate about Problem-Solving and building solutions that create real-world impact  
+🔹 Currently working on AI-powered smart grid forecasting  
+
+📫 **Let's connect:** [LinkedIn](your-linkedin) | [Portfolio](your-website)  
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sainathch45&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sainathch45&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=sainathch45e&theme=radical)
+
+---
+
+### 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green?style=for-the-badge&logo=tensorflow)
+
 
 <!--
 **sainathch45/sainathch45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
